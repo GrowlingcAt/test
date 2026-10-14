@@ -1,0 +1,6 @@
+# Agent 工作记忆（非交付物）
+.workbuddy/
+
+# Python
+__pycache__/
+*.py[cod]
